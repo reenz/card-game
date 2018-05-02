@@ -35,6 +35,10 @@ I would like to deal seven cards to each player
 * As I was new to PHP I read PHP documentation to understand how PHP works.
 * Next was to decide what classes I need, so extracted verbs and nouns from user stories and made a rough sequence diagram to understand the flow of information between classes, encapsulate similar behaviors and not to assign more than one responsibility to one class.
 
+## Data flow Diagram
+
+![Data flow](public/dataflow.svg)
+
 ## Reasoning
 
 * I made a Card class so that it can be reused to add different types of cards.
