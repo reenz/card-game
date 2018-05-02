@@ -1,0 +1,16 @@
+{
+    "name": "root/card-game",
+    "description": "Simple card game in PHP",
+    "authors": [
+        {
+            "name": "Reena",
+            "email": "reena.sanjay.sharma@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/php-code-coverage": "^6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    }
+}
